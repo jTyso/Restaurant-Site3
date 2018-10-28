@@ -1,0 +1,67 @@
+/*
+Creator: Jordan Theisen
+Date created: 10/21/2018
+Date last modified: 
+*/
+
+body {
+	background-color: #eeba00; }
+
+footer, header {
+	text-align: center;
+	font-family: 'Oswald', sans-serif; }
+
+
+footer {
+	border: 3px solid #0091b5;
+	margin-top: 20px; }
+
+header h1 {
+	border: 3px solid #0091b5; }
+
+
+nav {
+	margin-bottom: 20px;
+	margin-left: 16px; }
+
+nav ul {
+    list-style: none; }
+
+
+li {
+    margin-right: 8px; }
+
+nav ul a {
+    text-decoration: none;    
+    color: #eeba00;
+    background-color: #0091b5;
+    display: block;
+    padding: 8px 18px;
+    font-size: 1em;
+    transition: .3s background-color;
+    border-radius: 5px;
+}
+
+
+nav a:visited {
+	color: white; }
+
+nav a:hover {
+	background-color: #fef9ff;
+	font-weight: bold;
+	color: #000000; }
+
+nav a:active {
+	font-weight: bold; }
+
+header h1, footer, .jumbotron {
+	background-color: white; }
+
+
+#carousel1 {
+	width: 100%;
+	text-align: center;
+	background-color: white;
+	margin-bottom: 20px;
+	border: 3px solid #2a4a8b ; }
+}

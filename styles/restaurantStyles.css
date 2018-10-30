@@ -11,7 +11,6 @@ footer, header {
 	text-align: center;
 	font-family: 'Oswald', sans-serif; }
 
-
 footer {
 	border: 3px solid #0091b5;
 	margin-top: 20px; }
@@ -19,14 +18,12 @@ footer {
 header h1 {
 	border: 3px solid #0091b5; }
 
-
 nav {
 	margin-bottom: 20px;
 	margin-left: 16px; }
 
 nav ul {
     list-style: none; }
-
 
 li {
     margin-right: 8px; }
@@ -41,7 +38,6 @@ nav ul a {
     transition: .3s background-color;
     border-radius: 5px;
 }
-
 
 nav a:visited {
 	color: white; }
